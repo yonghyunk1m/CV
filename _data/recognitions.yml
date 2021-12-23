@@ -1,7 +1,7 @@
 # Recognitions
 - award: Dean's List
   organization: UNIST
-  year: 2016, 2021
+  year: 2017, 2022
   summary: Awarded for excellent academic and research performance.
 
 - award: Certificate of Achievement
@@ -14,15 +14,20 @@
   year: 2020
   summary: Awarded for exceptionally meritorious achievement while working at the 8A NCOA.
 
-- award: Excellent national scholarship student (Science and Engineering)
+- award: Excellent National Scholarship Student (Science and Engineering)
   organization: Korea Scholarship Foundation
   year: 2018
   summary: Awarded for expected to grow into a creative national talent as an outstanding talent with a promising future.
 
+- award: Admission Scholarship Student
+  organization: UNIST
+  year: 2016
+  summary: Awarded for excellent admission grades among accepted students.
+
 - award: Special Award
   organization: Gimcheon High school
   year: 2016
-  summary: Graduated from high school with excellent grades and received admission to a number of universities. (UNIST, Yonsei, SKKU, Seogang, etc.)
+  summary: Graduated from high school with excellent grades and received admission to a number of prominent universities. (UNIST, Yonsei, SKKU, Seogang, etc.)
   
 - award: Achievement Award
   organization: Gimcheon High school
