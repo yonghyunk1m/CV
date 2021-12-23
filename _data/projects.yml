@@ -9,8 +9,8 @@
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Dance Your Music: Musical Composition System based on OpenPose and Music21 from Choreography
+  role: Yonghyun Kim, Sungahn Ko
+  duration: Fall 2021 KAICTS &mdash; Best Paper Award
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Recently, K-POP based on dance music has been attracting worldwide attention. Since such dance music is produced as "pre-composed, post-choreography," it does not guarantee the choreographers' complete freedom of creation. On the other hand, modern dancers decide on a dance program first to express various artistry and then set up background music accordingly. Since it is important to emphasize the details of the movement at every moment, they usually leave the composition to get the best song for dance. However, this production process is difficult to discuss, and it consumes a lot of time and money when producing new songs every time. In order to help such a situation, the technology to automatically compose music from the choreography is needed.
