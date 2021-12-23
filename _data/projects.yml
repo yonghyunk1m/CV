@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# A Study on the Efficient Product Search Service for the Damaged Image Information
+- project: A Study on the Efficient Product Search Service for the Damaged Image Information
+  role: Yonghyun Kim
+  duration: Nov 2021 ArXiv
+  url: "https://arxiv.org/abs/2111.07346"
+  description: With the development of Information and Communication Technologies and the dissemination of smartphones, especially now that image search is possible through the internet, e-commerce markets are more activating purchasing services for a wide variety of products. However, it often happens that the image of the desired product is impaired and that the search engine does not recognize it properly. The idea of this study is to help search for products through image restoration using an image pre-processing and image inpainting algorithm for damaged images. It helps users easily purchase the items they want by providing a more accurate image search system. Besides, the system has the advantage of efficiently showing information by category, so that enables efficient sales of registered information.
 
 # Springfield Community Outreach Group
 - project: Dance Your Music&#58; Musical Composition System based on OpenPose and Music21 from Choreography
   role: Yonghyun Kim, Sungahn Ko
-  duration: Fall 2021 KAICTS &mdash; Best Paper Award
+  duration: Fall 2021 KAICTS &mdash; Best Paper Presentation Award
   # url: "#"
   description: Recently, K-POP based on dance music has been attracting worldwide attention. Since such dance music is produced as "pre-composed, post-choreography," it does not guarantee the choreographers' complete freedom of creation. On the other hand, modern dancers decide on a dance program first to express various artistry and then set up background music accordingly. Since it is important to emphasize the details of the movement at every moment, they usually leave the composition to get the best song for dance. However, this production process is difficult to discuss, and it consumes a lot of time and money when producing new songs every time. In order to help such a situation, the technology to automatically compose music from the choreography is needed.
