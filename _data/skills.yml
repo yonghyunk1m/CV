@@ -5,11 +5,15 @@
   
 # Tools & Libraries
 - skill: Tools & Libraries
-  description: MATLAB, AndroidStudio, Keras, Tensorflow, OpenGL, Music21, OpenPose, etc.
+  description: MATLAB, AndroidStudio, Keras, Tensorflow, OpenGL, OpenCV, Music21, OpenPose, etc.
   
 # MY A Subjects
 - skill: My A Graded Subjects 
   description: Artifical Intelligence, Digital Signal Processing, Piano Performance, Music and Creativity, Computer Graphics, Mobile Computing, Engineering Programming, Optimization Theory, Computer Network, Control Thoery, Microelectronics, Operating System, Probability and Random Process,  etc. 
+
+# Musical Talent
+- skill: Musical Talent
+  description: Absolute Pitch, Superfast Musicsheet Reading, Improvisation, Composition, Able to deal with many musical instruments (Piano, Violin, Guitar, etc.)
 
 # Organizational leadership
 - skill: Organizational leadership
