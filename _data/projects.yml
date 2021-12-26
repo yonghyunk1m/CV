@@ -4,7 +4,7 @@
 # A Study on the Efficient Product Search Service for the Damaged Image Information
 - project: A Study on the Efficient Product Search Service for the Damaged Image Information
   role: Yonghyun Kim
-  duration: Nov 2021 ArXiv
+  duration: Nov 2021 arXiv
   url: "https://arxiv.org/abs/2111.07346"
   description: With the development of Information and Communication Technologies and the dissemination of smartphones, especially now that image search is possible through the internet, e-commerce markets are more activating purchasing services for a wide variety of products. However, it often happens that the image of the desired product is impaired and that the search engine does not recognize it properly. The idea of this study is to help search for products through image restoration using an image pre-processing and image inpainting algorithm for damaged images. It helps users easily purchase the items they want by providing a more accurate image search system. Besides, the system has the advantage of efficiently showing information by category, so that enables efficient sales of registered information.
 
