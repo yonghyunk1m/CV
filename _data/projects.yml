@@ -12,5 +12,5 @@
 - project: Dance Your Music&#58; Musical Composition System based on OpenPose and Music21 from Choreography
   role: Yonghyun Kim, Sungahn Ko
   duration: Fall 2021 KAICTS &mdash; Best Paper Award
-  url: "https://drive.google.com/file/d/1C5n3F8ortf2CjzYIBkwZLMWqRudyOZu8/view?usp=sharing"
+  url: "https://drive.google.com/drive/folders/1z6r8yDHrBGF1qnBPsWzIKsKCOSncfTxS?usp=sharing"
   description: Recently, K-POP based on dance music has been attracting worldwide attention. Since such dance music is produced as "pre-composed, post-choreography," it does not guarantee the choreographers' complete freedom of creation. On the other hand, modern dancers decide on a dance program first to express various artistry and then set up background music accordingly. Since it is important to emphasize the details of the movement at every moment, they usually leave the composition to get the best song for dance. However, this production process is difficult to discuss, and it consumes a lot of time and money when producing new songs every time. In order to help such a situation, the technology to automatically compose music from the choreography is needed.
