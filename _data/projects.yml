@@ -6,7 +6,7 @@
   role: Yonghyun Kim
   duration: Mar 2022 - Present
   # url: ""
-  description: Hi
+  description: The Music Analyzer, currently under development, is a fast and high-performance music analysis program using arbitrary music files as input and output results of Key Classification and Mood Classification with our own metric. It also detect and output main note(s) by utilizing Fourier analysis. In addition, it utilizes the Librosa library to implement Tempo Detection.
   
 # All around fitness App Project
 - project: All-around Fitness App Project featured with AI Pose correction, Work-out machine Image search
